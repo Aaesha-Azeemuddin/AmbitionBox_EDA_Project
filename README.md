@@ -21,30 +21,46 @@ Analyze salary distributions across companies, roles, and industries.
 
 ## Dataset Features:
 **Company:** Name of the company
+
 **Job Role:** The position held by the employee
+
 **Experience:** Number of years of experience required or held
+
 **Salary:** Salary offered (categorized by minimum, maximum, or average)
+
 **Ratings:** Employee reviews and ratings for work culture, management, etc.
 
 ## Key Tasks Performed:
 **1. Data Collection and Cleaning**
+
 Loaded the dataset and handled missing or inconsistent values.
+
 Removed duplicates and ensured data quality for accurate analysis.
 
 **2. Data Exploration and Visualization**
+
 Explored the distribution of employee ratings across companies and job roles.
+
 Analyzed salary ranges across various industries and experience levels.
+
 Visualized trends in employee satisfaction across companies and industries.
 
 **3. Insight Generation**
+
 Identified the top-rated companies for employee satisfaction.
+
 Analyzed salary trends for different job roles and experience levels.
+
 Compared employee ratings by company size, location, and industry.
 
 ## Tools and Technologies Used:
+
 **Python:** For data manipulation and analysis.
+
 **Pandas:** For handling and cleaning the dataset.
+
 **Matplotlib & Seaborn:** For data visualization.
+
 **Jupyter Notebook:** For interactive exploration and coding.
 
 ## Results:
