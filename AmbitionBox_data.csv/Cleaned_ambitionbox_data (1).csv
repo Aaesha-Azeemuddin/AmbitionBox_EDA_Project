@@ -1,0 +1,722 @@
+Company,Industry,Ownership,Location,Ratings,Founded,Cities,Reviews,Employee_Count,Salary,Interviews,Jobs
+TCS,IT Services & Consulting ,Public,Chennai,3,56,348,77000, 1 Lakh+ ,869999,8100,1100
+Accenture,IT Services & Consulting ,Public,Bangalore / Bengaluru ,4,35,180,48100, 1 Lakh+ ,590000,5900,34600
+Cognizant,IT Services & Consulting ,Forbes Global 2000,Chennai,3,30,175,43400, 1 Lakh+ ,570000,4600,0
+Wipro,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,79,278,41300, 1 Lakh+ ,430000,4500,884
+Capgemini,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,57,145,35600, 1 Lakh+ ,430000,3800,0
+Infosys,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,43,183,33400, 1 Lakh+ ,470000,6000,1200
+Genpact,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,27,118,27000, 1 Lakh+ ,200000,2500,0
+HCLTech,IT Services & Consulting ,Public,Chennai,3,33,184,30000, 1 Lakh+ ,310000,3100,0
+IBM,IT Services & Consulting ,Public,Bangalore / Bengaluru ,4,113,149,19900, 1 Lakh+ ,220000,1900,3300
+Concentrix Corporation,BPO ,Public,Gurgaon / Gurugram ,3,41,119,21900, 50k-1 Lakh ,110000,1300,54
+Tech Mahindra,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,38,271,28500, 1 Lakh+ ,260000,2900,504
+Teleperformance,BPO ,Forbes Global 2000,Gurgaon / Gurugram ,3,46,192,23500, 50k-1 Lakh ,86400,1500,270
+Mphasis,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,26,53,7200, 10k-50k ,66100,641,0
+LTIMindtree,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,27,56,8400, 50k-1 Lakh ,100000,1300,0
+Wells Fargo,Financial Services ,Public,Hyderabad / Secunderabad ,4,172,21,5400, 10k-50k ,49000,438,382
+DXC Technology,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,7,84,8500, 10k-50k ,79500,697,0
+Hinduja Global Solutions,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,24,104,6600, 10k-50k ,24400,209,0
+Oracle,Software Product ,Public,Bangalore / Bengaluru ,3,47,49,4500, 50k-1 Lakh ,57800,700,0
+CGI Group,IT Services & Consulting ,Forbes Global 2000,Bangalore / Bengaluru ,4,48,32,3900, 10k-50k ,42700,379,143
+JPMorgan Chase & Co.,Financial Services ,Public,Bangalore / Bengaluru ,4,56,33,5200, 50k-1 Lakh ,73200,576,196
+Bharti Airtel,Telecom ,Public,Gurgaon / Gurugram ,4,29,667,12200, 10k-50k ,44200,686,0
+Dr. Reddy's,Pharma ,Public,Hyderabad / Secunderabad ,4,40,171,6100, 10k-50k ,24000,325,0
+Hewlett Packard Enterprise,IT Services & Consulting ,Forbes Global 2000,Bangalore / Bengaluru ,4,9,90,3500, 10k-50k ,30600,177,0
+Cyient,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,33,35,3900, 10k-50k ,26000,244,0
+BT Group,Telecom ,Forbes Global 2000,Gurgaon / Gurugram ,4,178,18,3300, 10k-50k ,10800,129,88
+Ericsson,Telecom ,Forbes Global 2000,Bangalore / Bengaluru ,4,148,150,6500, 10k-50k ,43300,340,603
+Startek,BPO ,Public,Bangalore / Bengaluru ,3,7,73,6600, 10k-50k ,22700,388,71
+Aurobindo Pharma,Pharma ,Public,Hyderabad / Secunderabad ,4,38,95,4300, 10k-50k ,21600,205,0
+American Express,Financial Services ,Forbes Global 2000,Gurgaon / Gurugram ,4,174,41,2800, 10k-50k ,21300,279,162
+Hexaware Technologies,IT Services & Consulting ,Fortune India 500,Chennai,3,34,47,5000, 10k-50k ,46300,561,805
+First Source,BPO ,Public,Bangalore / Bengaluru ,3,23,55,4100, 10k-50k ,20600,239,0
+State Street Corporation,Financial Services ,Forbes Global 2000,Bangalore / Bengaluru ,3,232,20,2200, 10k-50k ,23400,172,0
+Automatic Data Processing (ADP),Software Product ,Forbes Global 2000,Hyderabad / Secunderabad ,4,75,27,2700, 1k-5k ,20200,178,30
+UnitedHealth,Healthcare ,Forbes Global 2000,Hyderabad / Secunderabad ,4,47,16,2500, 10k-50k ,20300,77,0
+L&T Infotech,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,28,86,5300, 10k-50k ,72600,453,0
+L&T Technology Services,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,12,52,3800, 10k-50k ,36300,420,0
+Jio,Telecom ,Public,Hyderabad / Secunderabad ,4,6,1178,20400, 50k-1 Lakh ,65400,1400,118
+Tata Elxsi,IT Services & Consulting ,Public,Bangalore / Bengaluru ,4,35,26,1700, 5k-10k ,17200,234,0
+Quess,BPO ,Public,Bangalore / Bengaluru ,4,17,549,5700, 1k-5k ,25400,334,0
+Kyndryl,IT Services & Consulting ,Public,Bangalore / Bengaluru ,4,2,27,2100, 10k-50k ,18300,120,0
+Apollo Hospitals,Healthcare ,Public,Chennai,4,41,189,4100, 10k-50k ,15300,277,44
+Syngene International,Pharma ,Public,Bangalore / Bengaluru ,3,31,15,1600, 1k-5k ,11100,130,36
+Vodafone Idea,Telecom ,Public,Hyderabad / Secunderabad ,4,6,641,14200, 5k-10k ,56400,487,25
+SAP,Software Product ,Forbes Global 2000,Bangalore / Bengaluru ,4,52,44,1500, 10k-50k ,14900,229,229
+Verizon,Telecom ,Forbes Global 2000,Chennai,4,24,10,1300, 5k-10k ,10700,84,0
+Viatris,Pharma ,Forbes Global 2000,Hyderabad / Secunderabad ,4,4,69,2800, 10k-50k ,14000,119,0
+Thomson Reuters,Software Product ,Forbes Global 2000,Bangalore / Bengaluru ,4,16,24,1400, 5k-10k ,10300,77,0
+Microsoft Corporation,Software Product ,Forbes Global 2000,Hyderabad / Secunderabad ,4,49,41,1500, 10k-50k ,23800,451,659
+Nokia,Telecom ,Forbes Global 2000,Bangalore / Bengaluru ,4,159,152,2000, 10k-50k ,14200,220,0
+Coforge,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,20,87,4000, 10k-50k ,37900,394,158
+Oracle Cerner,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,45,5,1200, 5k-10k ,11500,137,0
+Allsec Technologies,BPO ,Public,Chennai,4,24,26,1500, 1k-5k ,6400,92,18
+Infinite Computer Solutions,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,23,28,1200, 1k-5k ,11500,109,273
+Mercedes-Benz Research & Development India,IT Services & Consulting ,Public,Bangalore / Bengaluru ,4,28,47,1300, 5k-10k ,15200,162,127
+Atos,IT Services & Consulting ,Forbes Global 2000,Chennai,3,27,42,2700, 10k-50k ,27600,248,0
+Microland,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,35,40,1300, 1k-5k ,11000,102,0
+KPIT Technologies,Software Product ,Public,Bangalore / Bengaluru ,3,34,32,2300, 5k-10k ,20300,221,0
+Synchrony,Financial Services ,Forbes Global 2000,Hyderabad / Secunderabad ,4,92,8,995, 1k-5k ,5100,59,0
+First American Corporation,Financial Services ,Forbes Global 2000,Bangalore / Bengaluru ,3,30,14,1200, 1k-5k ,8100,64,34
+Pristyn Care,Healthcare ,Indian Unicorn,Gurgaon / Gurugram ,3,6,28,864, 1k-5k ,3700,63,17
+Orange Business,IT Services & Consulting ,Forbes Global 2000,Gurgaon / Gurugram ,4,32,46,1200, 1k-5k ,8800,85,0
+ANZ Banking Group,Financial Services ,Forbes Global 2000,Bangalore / Bengaluru ,4,17,16,908, 5k-10k ,7400,72,21
+Sonata Software,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,38,12,885, 1k-5k ,10600,94,0
+Fidelity National Financial,Financial Services ,Forbes Global 2000,Bangalore / Bengaluru ,3,177,10,942, 1k-5k ,5900,46,0
+Aon,Financial Services ,Forbes Global 2000,Gurgaon / Gurugram ,3,84,18,1100, 5k-10k ,5500,48,0
+VMware Software,Software Product ,Forbes Global 2000,Bangalore / Bengaluru ,4,26,17,999, 5k-10k ,10200,133,53
+Birlasoft,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,29,36,2400, 10k-50k ,28100,242,0
+CMS IT Services,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,3,10,138,2400, 5k-10k ,10500,101,0
+NCR Corporation,IT Services & Consulting ,Forbes Global 2000,Hyderabad / Secunderabad ,4,140,80,1400, 5k-10k ,8500,88,116
+Oracle Financial Services Software,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,34,17,1100, 10k-50k ,12500,127,0
+Zensar Technologies,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,23,22,2200, 5k-10k ,26000,201,0
+Tata Communications,Telecom ,Public,Chennai,4,38,87,3000, 5k-10k ,22500,219,0
+Happiest Minds Technologies,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,13,14,827, 1k-5k ,9400,92,0
+Gland Pharma,Pharma ,Fortune India 500,Hyderabad / Secunderabad ,3,46,26,1100, 1k-5k ,6000,65,0
+Granules India,Pharma ,Public,Hyderabad / Secunderabad ,3,40,14,1100, 1k-5k ,5200,58,0
+Salesforce,Software Product ,Public,Hyderabad / Secunderabad ,4,25,26,708, 5k-10k ,8500,217,110
+AstraZeneca,Pharma ,Public,Chennai,4,25,42,744, 501-1k ,6000,35,0
+Persistent Systems,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,34,34,3200, 10k-50k ,34500,456,0
+BNP Paribas,Financial Services ,Forbes Global 2000,Chennai,3,176,22,1300, 10k-50k ,13500,142,0
+Novo Nordisk,Pharma ,Forbes Global 2000,Bangalore / Bengaluru ,4,101,63,837, 1k-5k ,5100,69,0
+Fujitsu,IT Services & Consulting ,Forbes Global 2000,Chennai,3,89,32,1800, 5k-10k ,15300,140,200
+Test Yantra Software Solutions,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,17,16,726, 1k-5k ,20700,95,0
+Better.com,Financial Services ,Startup,Gurgaon / Gurugram ,3,8,5,724, 1k-5k ,4000,48,28
+Northern Trust Operating Services,Financial Services ,Forbes Global 2000,Bangalore / Bengaluru ,4,135,16,981, 5k-10k ,7900,89,43
+Bajaj Finserv,Financial Services ,Public,Hyderabad / Secunderabad ,4,17,909,7900, 50k-1 Lakh ,26200,417,0
+Amdocs,Software Product ,Forbes Global 2000,Gurgaon / Gurugram ,4,42,14,3500, 10k-50k ,35300,439,0
+Narayana Health,Healthcare ,Fortune India 500,Bangalore / Bengaluru ,4,24,59,1300, 10k-50k ,5300,51,26
+Indus Towers,Telecom ,Fortune India 500,Gurgaon / Gurugram ,3,17,163,1800, 1k-5k ,7300,144,0
+Ramco Systems,Software Product ,Public,Chennai,3,27,24,560, 1k-5k ,5200,34,0
+Strides Pharma,Pharma ,Public,Bangalore / Bengaluru ,3,34,31,807, 201-500 ,3900,50,0
+Cigniti Technologies,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,26,6,543, 1k-5k ,6300,62,15
+Sun Life Financial,Financial Services ,Forbes Global 2000,Gurgaon / Gurugram ,4,159,9,541, 1k-5k ,3900,35,53
+Cipla,Pharma ,Public,Bangalore / Bengaluru ,4,89,240,6100, 10k-50k ,23900,416,88
+Maveric Systems,IT Services & Consulting ,Public,Chennai,3,24,9,545, 1k-5k ,6600,95,0
+3i Infotech,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,31,108,1700, 1k-5k ,10600,116,0
+Morgan Stanley,Financial Services ,Forbes Global 2000,Bangalore / Bengaluru ,3,93,17,1300, 10k-50k ,19900,257,0
+Freshworks,Software Product ,Public,Chennai,3,14,39,553, 1k-5k ,5200,123,0
+Fortis Healthcare,Healthcare ,Public,Bangalore / Bengaluru ,4,28,61,1900, 1k-5k ,6900,111,0
+Tech Mahindra Business Services,BPO ,Public,Hyderabad / Secunderabad ,3,21,49,2300, 5k-10k ,12500,247,0
+Amadeus,IT Services & Consulting ,Forbes Global 2000,Bangalore / Bengaluru ,3,37,14,506, 1k-5k ,6200,88,0
+SAI Life Sciences,Pharma ,Public,Hyderabad / Secunderabad ,3,25,16,959, 1k-5k ,5000,68,0
+1point1 Solutions,BPO ,Public,Gurgaon / Gurugram ,3,16,14,796, 5k-10k ,3000,62,54
+Sun Pharmaceutical Industries,Pharma ,Public,Gurgaon / Gurugram ,4,41,209,5000, 10k-50k ,21000,316,128
+GlaxoSmithKline Pharmaceuticals,Pharma ,Fortune India 500,Bangalore / Bengaluru ,4,194,182,1600, 1k-5k ,5000,88,0
+Neuland Laboratories,Pharma ,Public,Hyderabad / Secunderabad ,4,40,7,487, 1k-5k ,2500,35,0
+Laurus Labs,Pharma ,Public,Hyderabad / Secunderabad ,4,19,15,1500, 5k-10k ,6500,90,0
+Natco Pharma,Pharma ,Public,Hyderabad / Secunderabad ,4,43,48,665, 1k-5k ,3100,40,0
+Philips Innovation Campus,Healthcare ,Public,Bangalore / Bengaluru ,3,26,16,432, 1k-5k ,3900,41,0
+Amazon Web Services,Software Product ,Public,Bangalore / Bengaluru ,4,18,45,618, 10k-50k ,5200,143,0
+Axiscades,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,34,10,387, 1k-5k ,3200,49,0
+Ameriprise Financial,Financial Services ,Forbes Global 2000,Gurgaon / Gurugram ,3,130,11,466, 1k-5k ,4100,45,0
+Pfizer,Pharma ,Public,Chennai,4,20,114,1700, 1k-5k ,5800,59,0
+AT&T,Telecom ,Forbes Global 2000,Bangalore / Bengaluru ,4,41,16,395, 5k-10k ,3800,41,0
+Sasken,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,35,10,388, 1k-5k ,3600,57,0
+Thermo Fisher Scientific,Pharma ,Forbes Global 2000,Bangalore / Bengaluru ,3,68,27,547, 1k-5k ,4400,44,0
+Tata Teleservices,Telecom ,Public,Hyderabad / Secunderabad ,4,28,146,1500, 201-500 ,4300,28,0
+Sanofi,Pharma ,Public,Hyderabad / Secunderabad ,4,20,72,1000, 1k-5k ,4000,59,199
+HCL Infosystems,IT Services & Consulting ,Public,Chennai,4,48,104,1400, 51-200 ,9100,133,0
+Invesco,Financial Services ,Forbes Global 2000,Hyderabad / Secunderabad ,3,89,6,316, 1k-5k ,2600,30,0
+Eli Lilly and Company,Pharma ,Public,Bangalore / Bengaluru ,4,31,18,356, 1k-5k ,3000,41,78
+Reliance Communications,Telecom ,Public,Hyderabad / Secunderabad ,4,22,428,3300, 201-500 ,11300,77,0
+SS&C TECHNOLOGIES,IT Services & Consulting ,Forbes Global 2000,Hyderabad / Secunderabad ,3,38,26,1300, 5k-10k ,11900,135,95
+DIVI'S Laboratories,Healthcare ,Public,Hyderabad / Secunderabad ,3,34,23,1300, 10k-50k ,5900,66,0
+Mindsprint,IT Services & Consulting ,Forbes Global 2000,Chennai,3,17,11,303, 1k-5k ,4200,21,19
+Citrix,Software Product ,Forbes Global 2000,Bangalore / Bengaluru ,3,35,5,324, 1k-5k ,2600,48,0
+Macquarie Group,Financial Services ,Forbes Global 2000,Gurgaon / Gurugram ,3,55,11,331, 1k-5k ,3900,28,0
+Abbott,Pharma ,Public,Hyderabad / Secunderabad ,4,136,172,2800, 10k-50k ,10800,128,147
+Adobe,Software Product ,Public,Bangalore / Bengaluru ,4,42,15,920, 5k-10k ,10700,199,0
+Rakuten,IT Services & Consulting ,Forbes Global 2000,Bangalore / Bengaluru ,3,27,10,350, 1k-5k ,4200,69,0
+ICICI Securities,Financial Services ,Public,Hyderabad / Secunderabad ,3,29,126,1700, 1k-5k ,8500,120,0
+Kellton,IT Services & Consulting ,Public,Gurgaon / Gurugram ,3,15,17,306, 1k-5k ,3200,39,0
+Jindal X,BPO ,Public,Gurgaon / Gurugram ,3,25,19,1100, 1k-5k ,2800,89,20
+NetApp,IT Services & Consulting ,Forbes Global 2000,Bangalore / Bengaluru ,4,32,7,304, 1k-5k ,3400,44,0
+Samunnati Financial Intermediation and Services,Financial Services ,Startup,Chennai,4,10,52,483, 201-500 ,787,15,0
+Onward Technologies Inc,Software Product ,Public,Chennai,3,33,61,810, 1k-5k ,5500,59,68
+Equiniti,IT Services & Consulting ,Public,Chennai,3,10,2,273, 1k-5k ,2500,24,0
+Healthians,Healthcare ,Startup,Gurgaon / Gurugram ,3,11,41,396, 1k-5k ,1700,34,0
+Williams Lea,BPO ,Public,Chennai,4,204,15,404, 1k-5k ,3000,30,0
+Tekion,Software Product ,Startup,Bangalore / Bengaluru ,3,8,4,254, 1k-5k ,2700,57,0
+Datamatics Global Services,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,49,29,1800, 5k-10k ,11300,132,0
+Bajaj Capital,Financial Services ,Public,Gurgaon / Gurugram ,3,60,147,1100, 1k-5k ,3600,67,0
+ServiceNow,Software Product ,Public,Hyderabad / Secunderabad ,4,20,7,272, 1k-5k ,3700,78,0
+Quantiphi Analytics Solutions Private Limited,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,3,11,11,663, 1k-5k ,5600,133,67
+JoulestoWatts Business Solutions,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,2,9,14,322, 201-500 ,2700,19,0
+Max Healthcare,Healthcare ,Fortune India 500,Gurgaon / Gurugram ,4,23,59,2000, 1k-5k ,8300,97,0
+Novartis Healthcare,Pharma ,Public,Hyderabad / Secunderabad ,4,28,25,314, 51-200 ,4100,20,0
+Artemis Health Institute,Healthcare ,Public,Gurgaon / Gurugram ,4,17,10,281, 1k-5k ,955,11,0
+Finastra,Software Product ,Startup,Bangalore / Bengaluru ,3,7,10,430, 1k-5k ,4600,41,0
+Inspirisys Solution,IT Services & Consulting ,Public,Chennai,3,33,43,406, 1k-5k ,3300,35,0
+Crisil,Financial Services ,Public,Gurgaon / Gurugram ,3,37,56,1400, 1k-5k ,11200,157,0
+NoBrokerHOOD,Software Product ,Startup,Bangalore / Bengaluru ,3,9,27,616, 1k-5k ,1700,49,0
+Portea Medical,Healthcare ,Startup,Bangalore / Bengaluru ,4,11,32,457, 1k-5k ,1300,22,0
+MediBuddy,Healthcare ,Startup,Bangalore / Bengaluru ,3,11,15,289, 1k-5k ,1700,20,0
+Black Knight,IT Services & Consulting ,Startup,Hyderabad / Secunderabad ,3,10,3,364, 501-1k ,3200,28,0
+Health Care Global Enterprises,Healthcare ,Public,Bangalore / Bengaluru ,4,35,41,967, 5k-10k ,2400,45,0
+Akamai Technologies,Software Product ,Forbes Global 2000,Bangalore / Bengaluru ,4,26,4,324, 1k-5k ,3200,46,0
+Empower Retirement,Financial Services ,Public,Bangalore / Bengaluru ,3,133,3,235, 1k-5k ,2100,28,0
+Johnson & Johnson,Pharma ,Forbes Global 2000,Gurgaon / Gurugram ,4,67,142,1200, 1k-5k ,5800,77,0
+Baxter International,Healthcare ,Forbes Global 2000,Gurgaon / Gurugram ,4,93,26,561, 1k-5k ,3200,34,0
+LKQ INDIA,IT Services & Consulting ,Forbes Global 2000,Bangalore / Bengaluru ,3,26,2,219, 1k-5k ,1700,21,0
+SirionLabs,IT Services & Consulting ,Startup,Gurgaon / Gurugram ,3,12,5,220, 501-1k ,1700,17,0
+T-SYSTEMS ICT INDIA,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,8,9,711, 1k-5k ,6700,66,24
+Indifi Technologies,Financial Services ,Startup,Gurgaon / Gurugram ,3,9,8,222, 501-1k ,1400,14,48
+Motilal Oswal Financial Services,Financial Services ,Public,Bangalore / Bengaluru ,3,37,130,2000, 10k-50k ,9300,166,71
+Mankind Pharma,Pharma ,Fortune India 500,Gurgaon / Gurugram ,4,29,199,2100, 10k-50k ,8000,163,0
+Reliance SMSL,BPO ,Public,Hyderabad / Secunderabad ,4,17,492,2300, 1k-5k ,5800,136,0
+Bayer,Pharma ,Public,Bangalore / Bengaluru ,4,161,98,648, 10k-50k ,3900,40,0
+Vyapar,Software Product ,Startup,Bangalore / Bengaluru ,3,7,29,282, 501-1k ,1100,30,38
+TransUnion,Financial Services ,Forbes Global 2000,Chennai,4,56,9,318, 201-500 ,3600,67,62
+Hindustan Wellness,Healthcare ,Startup,Gurgaon / Gurugram ,4,10,14,258, 501-1k ,705,18,0
+GlaxoSmithKline Consumer Healthcare,Pharma ,Public,Gurgaon / Gurugram ,4,24,93,565, 1k-5k ,2100,23,0
+Model N,Software Product ,Public,Hyderabad / Secunderabad ,4,25,1,191, 501-1k ,834,7,0
+Synopsys,Software Product ,Public,Bangalore / Bengaluru ,3,38,10,286, 1k-5k ,2800,61,0
+Dr Lal PathLabs,Healthcare ,Public,Gurgaon / Gurugram ,4,75,156,1400, 1k-5k ,4000,110,53
+Aster Dm Healthcare,Healthcare ,Public,Bangalore / Bengaluru ,3,37,33,363, 1k-5k ,2100,32,38
+IIC Technologies,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,30,21,307, 1k-5k ,1200,10,0
+JK Tech,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,30,17,438, 501-1k ,3800,27,0
+Computacenter,IT Services & Consulting ,Public,Bangalore / Bengaluru ,4,43,8,198, 1k-5k ,1500,30,14
+Xchanging,IT Services & Consulting ,Public,Bangalore / Bengaluru ,4,26,10,220, 201-500 ,867,4,0
+Samsung SDS,IT Services & Consulting ,Forbes Global 2000,Gurgaon / Gurugram ,3,39,19,261, 1k-5k ,1900,18,0
+Ichhapurti.com,Software Product ,Startup,Gurgaon / Gurugram ,2,9,27,215, 51-200 ,665,18,0
+ZTE Corporation,Telecom ,Forbes Global 2000,Gurgaon / Gurugram ,4,21,43,395, 201-500 ,1500,17,0
+Darwinbox,Software Product ,Indian Unicorn,Hyderabad / Secunderabad ,3,9,9,185, 501-1k ,1800,35,0
+Trimble,IT Services & Consulting ,Forbes Global 2000,Chennai,4,46,14,180, 1k-5k ,1800,16,0
+Teva Pharmaceuticals,Pharma ,Forbes Global 2000,Bangalore / Bengaluru ,4,123,33,743, 1k-5k ,4000,54,0
+Muthoot Group,Financial Services ,Public,Bangalore / Bengaluru ,3,137,265,1100, 10k-50k ,3800,59,0
+CES,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,28,14,209, 1k-5k ,2100,33,0
+Aditya Birla Capital,Financial Services ,Public,Hyderabad / Secunderabad ,4,7,194,1400, 10k-50k ,8200,117,0
+DotPe,IT Services & Consulting ,Startup,Gurgaon / Gurugram ,3,5,17,196, 201-500 ,1100,23,0
+Dassault Systemes,Software Product ,Forbes Global 2000,Bangalore / Bengaluru ,4,43,9,796, 5k-10k ,6000,115,0
+Cadsys,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,35,3,151, 201-500 ,471,5,0
+Shilpa Medicare,Pharma ,Public,Hyderabad / Secunderabad ,3,37,28,627, 1k-5k ,3700,51,0
+Yubi,Financial Services ,Indian Unicorn,Chennai,2,7,9,165, 501-1k ,1100,24,13
+Avanze Technologies,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,3,9,4,214, 501-1k ,1100,19,0
+Telesonic Networks,Telecom ,Public,Gurgaon / Gurugram ,3,15,44,304, 5k-10k ,1000,8,0
+HostBooks,Software Product ,Public,Gurgaon / Gurugram ,3,15,9,168, 201-500 ,609,6,16
+Nowfloats Technologies,Software Product ,Startup,Hyderabad / Secunderabad ,3,12,40,329, 201-500 ,1300,15,0
+Labcorp,Healthcare ,Forbes Global 2000,Bangalore / Bengaluru ,4,55,9,254, 501-1k ,1800,38,0
+Sagarsoft,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,4,28,2,133, 51-200 ,524,5,0
+Kauvery Hospital,Healthcare ,Public,Chennai,4,25,12,289, 1k-5k ,1500,17,16
+Boston Scientific,Healthcare ,Forbes Global 2000,Gurgaon / Gurugram ,4,45,16,165, 201-500 ,1400,13,0
+TTK Healthcare,Healthcare ,Public,Chennai,4,96,72,350, 1k-5k ,1300,10,0
+NexTurn,IT Services & Consulting ,Startup,Hyderabad / Secunderabad ,4,3,4,166, 51-200 ,122,20,62
+Reventics,Healthcare ,Startup,Hyderabad / Secunderabad ,4,8,1,136, 201-500 ,775,11,0
+Apollo Munich Health Insurance,Financial Services ,Public,Gurgaon / Gurugram ,4,17,108,465, 1k-5k ,1700,8,0
+Bal Pharma,Pharma ,Public,Bangalore / Bengaluru ,3,37,18,213, 1k-5k ,1100,12,0
+Alembic Pharmaceuticals,Pharma ,Public,Hyderabad / Secunderabad ,4,117,155,2700, 10k-50k ,14000,180,71
+Dr. Agarwal's Eye Hospital,Healthcare ,Public,Chennai,4,67,44,258, 1k-5k ,1100,19,0
+Sharekhan,Financial Services ,Public,Bangalore / Bengaluru ,4,24,109,1000, 1k-5k ,4700,63,0
+ARCADIS,IT Services & Consulting ,Public,Bangalore / Bengaluru ,4,15,24,190, 1k-5k ,1400,27,0
+Aspiro Pharma,Pharma ,Startup,Hyderabad / Secunderabad ,3,12,2,187, 51-200 ,949,8,0
+Newgen Software Technologies,IT Services & Consulting ,Public,Chennai,3,32,23,1000, 1k-5k ,10300,147,38
+Piramal Group,Financial Services ,Fortune India 500,Hyderabad / Secunderabad ,4,44,124,1100, 10k-50k ,4700,55,40
+Piramal Pharma,Pharma ,Public,Hyderabad / Secunderabad ,4,36,52,714, 1k-5k ,4100,72,349
+BetterPlace Safety Solutions,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,3,9,10,141, 201-500 ,1100,12,11
+Groww,Financial Services ,Indian Unicorn,Bangalore / Bengaluru ,3,7,10,180, 1k-5k ,1600,42,35
+Ebix Software India,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,48,30,489, 1k-5k ,4800,24,33
+CallHealth,Healthcare ,Startup,Hyderabad / Secunderabad ,3,11,15,180, 51-200 ,865,2,0
+Vertiv,IT Services & Consulting ,Public,Gurgaon / Gurugram ,4,8,46,685, 51-200 ,3200,40,91
+Locuz Enterprise Solutions,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,4,25,12,172, 501-1k ,1300,13,0
+Intuit,IT Services & Consulting ,Forbes Global 2000,Bangalore / Bengaluru ,3,19,9,138, 1k-5k ,2200,54,0
+NEC,IT Services & Consulting ,Forbes Global 2000,Bangalore / Bengaluru ,4,125,41,1100, 5k-10k ,3800,43,0
+Olympus,Healthcare ,Forbes Global 2000,Gurgaon / Gurugram ,4,14,20,166, 201-500 ,945,5,0
+VOIZ,BPO ,Startup,Bangalore / Bengaluru ,4,2,18,216, 201-500 ,129,18,0
+Bharat Sanchar Nigam,Telecom ,Central,Bangalore / Bengaluru ,4,24,210,843, 50k-1 Lakh ,2700,31,0
+Progressive Infotech,IT Services & Consulting ,Forbes Global 2000,Gurgaon / Gurugram ,3,26,55,562, 1k-5k ,2800,31,0
+Autodesk,Software Product ,Public,Bangalore / Bengaluru ,4,42,21,184, 1k-5k ,2000,27,0
+Net Access India,IT Services & Consulting ,Public,Chennai,4,27,25,145, 201-500 ,1100,13,0
+Tietoevry,IT Services & Consulting ,Public,Bangalore / Bengaluru ,4,56,10,984, 1k-5k ,9000,68,41
+Money View,Financial Services ,Startup,Bangalore / Bengaluru ,4,10,14,142, 51-200 ,1000,20,0
+Yethi Consulting,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,3,11,11,190, 501-1k ,2000,28,0
+Izmo,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,29,5,147, 51-200 ,745,8,0
+Rimini Street,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,4,12,1,115, 501-1k ,711,4,0
+Yalamanchili Software Exports,Software Product ,Public,Chennai,3,23,12,272, 51-200 ,1300,12,0
+Junglee Games,IT Services & Consulting ,Startup,Gurgaon / Gurugram ,3,12,7,120, 201-500 ,1100,20,0
+Cytecare Cancer Hospital,Healthcare ,Startup,Bangalore / Bengaluru ,4,10,2,122, 201-500 ,442,6,0
+Edelweiss,Financial Services ,Public,Bangalore / Bengaluru ,3,7,108,1000, 1k-5k ,7500,55,0
+Cytecare Cancer Hospital,Healthcare ,Startup,Bangalore / Bengaluru ,4,10,2,122, 201-500 ,442,6,0
+HDFC Securities,Financial Services ,Public,Bangalore / Bengaluru ,3,24,161,1200, 1k-5k ,5500,92,0
+Fresenius Medical Care,Healthcare ,Public,Gurgaon / Gurugram ,3,28,31,198, 201-500 ,823,12,0
+DataTracks,Financial Services ,Public,Chennai,3,19,3,113, 201-500 ,1000,9,17
+PNB Housing Finance,Financial Services ,Public,Bangalore / Bengaluru ,3,36,115,894, 1k-5k ,4100,37,0
+Amrutanjan Health Care,Pharma ,Public,Chennai,3,131,36,194, 1k-5k ,572,13,0
+Agilent Technologies,Pharma ,Forbes Global 2000,Gurgaon / Gurugram ,4,25,17,287, 1k-5k ,1700,17,0
+Orchid Pharma,Pharma ,Public,Chennai,3,32,5,148, 1k-5k ,845,9,0
+Saksoft,IT Services & Consulting ,Public,Chennai,3,25,14,289, 1k-5k ,2800,27,0
+Avantha Technologies,IT Services & Consulting ,Public,Gurgaon / Gurugram ,3,20,7,129, 201-500 ,798,9,0
+ICE Data Services,Financial Services ,Public,Hyderabad / Secunderabad ,3,24,3,100, 501-1k ,845,19,6
+Gameskraft,Software Product ,Startup,Bangalore / Bengaluru ,3,7,1,100, 501-1k ,970,11,0
+Indiafilings,Financial Services ,Public,Chennai,3,11,10,161, 501-1k ,824,15,0
+Caplin Point Laboratories,Pharma ,Public,Chennai,4,34,5,155, 501-1k ,1200,11,0
+Sami-Sabinsa Group,Pharma ,Public,Bangalore / Bengaluru ,3,27,8,146, 501-1k ,993,11,0
+Mold-Tek Technologies,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,38,6,147, 1k-5k ,916,9,0
+One Trust,Software Product ,Startup,Bangalore / Bengaluru ,2,8,3,107, 201-500 ,866,10,45
+Toyota Financial Services,Financial Services ,Public,Bangalore / Bengaluru ,3,41,32,162, 201-500 ,796,9,0
+Glenmark Pharmaceuticals,Pharma ,Public,Hyderabad / Secunderabad ,4,47,142,2500, 10k-50k ,11200,117,98
+HP Global e-Business Operations,BPO ,Public,Bangalore / Bengaluru ,4,85,4,114, 1-10 ,685,7,0
+Aster Cmi Hospital,Healthcare ,Public,Bangalore / Bengaluru ,4,37,4,121, 201-500 ,531,6,0
+Alkem Laboratories,Pharma ,Public,Hyderabad / Secunderabad ,4,51,165,2600, 10k-50k ,9000,129,0
+Intense Technologies,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,4,34,12,123, 501-1k ,1200,8,0
+Bharti Infratel,Telecom ,Public,Gurgaon / Gurugram ,4,18,67,513, 1k-5k ,1600,4,0
+Suven Life Sciences,Pharma ,Public,Hyderabad / Secunderabad ,3,35,6,126, 51-200 ,672,3,0
+Anunta Technology Management Services,IT Services & Consulting ,Startup,Chennai,3,12,14,240, 501-1k ,1700,22,0
+NSE.IT,IT Services & Consulting ,Public,Chennai,3,25,136,1000, 1k-5k ,5800,104,0
+Lupin,Pharma ,Public,Bangalore / Bengaluru ,4,56,171,5500, 1k-5k ,22300,288,193
+Vasudha Pharma Chem,Pharma ,Public,Hyderabad / Secunderabad ,3,29,7,426, 1k-5k ,2100,24,0
+TELUS International Philippines,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,3,19,16,955, 1k-5k ,7400,75,43
+Aptonline,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,4,22,5,117, 201-500 ,939,4,0
+Nineleaps Technology Solutions,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,3,10,2,99, 201-500 ,1100,23,0
+NortonLifeLock's,IT Services & Consulting ,Forbes Global 2000,Chennai,4,42,6,203, 501-1k ,2100,16,19
+Wolters Kluwer,IT Services & Consulting ,Forbes Global 2000,Chennai,3,188,13,384, 1k-5k ,3800,65,0
+Virtusa Software Services,IT Services & Consulting ,Public,Chennai,3,28,7,110, 5k-10k ,1600,25,0
+Happay,Software Product ,Startup,Bangalore / Bengaluru ,3,12,4,88, 201-500 ,718,3,0
+F5 Networks,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,4,28,4,88, 501-1k ,1200,17,40
+STANPLUS TECHNOLOGIES,Healthcare ,Startup,Hyderabad / Secunderabad ,3,8,19,137, 11-50 ,493,14,0
+Xoxoday,Software Product ,Startup,Bangalore / Bengaluru ,3,12,7,97, 51-200 ,677,7,0
+Solara Active Pharma Sciences,Pharma ,Public,Chennai,3,6,15,409, 1k-5k ,2700,34,0
+American Tower Corporation,Telecom ,Forbes Global 2000,Gurgaon / Gurugram ,3,29,38,195, 501-1k ,1100,5,0
+Fisdom,Financial Services ,Startup,Bangalore / Bengaluru ,3,9,28,166, 501-1k ,719,14,0
+Thales,IT Services & Consulting ,Forbes Global 2000,Bangalore / Bengaluru ,3,24,16,308, 1k-5k ,2900,33,0
+Telstra,Telecom ,Forbes Global 2000,Bangalore / Bengaluru ,4,32,8,156, 1k-5k ,1800,31,0
+Black Box Corporation,IT Services & Consulting ,Fortune India 500,Bangalore / Bengaluru ,3,48,16,140, 1k-5k ,1100,15,45
+Alcatel-Lucent,Telecom ,Public,Bangalore / Bengaluru ,4,32,22,142, 201-500 ,624,6,0
+Telenor,Telecom ,Forbes Global 2000,Hyderabad / Secunderabad ,4,15,113,527, 501-1k ,695,6,0
+Novopay Solutions,Software Product ,Startup,Bangalore / Bengaluru ,3,10,19,109, 201-500 ,760,11,37
+Cardinal Health,Healthcare ,Forbes Global 2000,Bangalore / Bengaluru ,3,30,8,95, 1k-5k ,874,11,0
+Zydus Lifesciences,Pharma ,Public,Hyderabad / Secunderabad ,4,72,156,5400, 10k-50k ,18200,263,0
+Quotient Technology,IT Services & Consulting ,Public,Bangalore / Bengaluru ,4,26,2,86, 201-500 ,702,10,0
+Motorola Solutions,Telecom ,Forbes Global 2000,Bangalore / Bengaluru ,4,25,7,95, 1k-5k ,1100,17,0
+C-Square Info Solutions,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,22,11,109, 201-500 ,617,5,0
+Blackbuck Insights,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,4,8,7,118, 201-500 ,468,13,0
+Zopsmart Technology,Software Product ,Startup,Bangalore / Bengaluru ,3,10,7,94, 201-500 ,787,27,20
+Allergan,Healthcare ,Forbes Global 2000,Bangalore / Bengaluru ,3,11,23,140, 1k-5k ,629,5,0
+yellow.ai,Software Product ,Startup,Bangalore / Bengaluru ,3,8,3,107, 501-1k ,1200,11,0
+Niyo Solutions,Financial Services ,Startup,Bangalore / Bengaluru ,3,9,12,98, 201-500 ,915,4,0
+Shipsy,Software Product ,Startup,Gurgaon / Gurugram ,3,9,4,90, 201-500 ,541,6,0
+Axio,Financial Services ,Startup,Bangalore / Bengaluru ,3,11,17,162, 501-1k ,928,6,0
+Relyon Softech,Software Product ,Public,Bangalore / Bengaluru ,4,23,15,132, 501-1k ,909,9,0
+TTEC India,BPO ,Public,Hyderabad / Secunderabad ,3,40,23,1100, 1k-5k ,4200,111,0
+CoinSwitch,Financial Services ,Indian Unicorn,Bangalore / Bengaluru ,3,7,2,81, 501-1k ,628,9,14
+ekincare,Healthcare ,Startup,Hyderabad / Secunderabad ,2,10,5,83, 201-500 ,521,8,0
+ICRA,Financial Services ,Public,Gurgaon / Gurugram ,3,33,14,229, 201-500 ,1600,16,0
+Tanla Platforms,Software Product ,Public,Hyderabad / Secunderabad ,3,25,5,83, 501-1k ,943,8,0
+Elektrobit India,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,36,1,81, 501-1k ,816,11,0
+DCM Infotech,IT Services & Consulting ,Public,Gurgaon / Gurugram ,3,31,11,99, 51-200 ,710,3,32
+Factspan,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,3,12,2,75, 201-500 ,603,8,0
+PTC,Software Product ,Public,Gurgaon / Gurugram ,4,39,39,439, 1k-5k ,3600,50,0
+BlueBinaries Engineering and Solutions,Software Product ,Startup,Chennai,3,7,5,94, 501-1k ,854,15,0
+Zimyo,IT Services & Consulting ,Startup,Gurgaon / Gurugram ,4,6,3,69, 51-200 ,311,1,0
+NTT Global Networks,IT Services & Consulting ,Public,Bangalore / Bengaluru ,4,5,25,250, 501-1k ,2100,22,11
+Unicommerce Esolutions,Software Product ,Startup,Gurgaon / Gurugram ,3,12,2,80, 201-500 ,714,15,0
+Dish Network,Telecom ,Public,Bangalore / Bengaluru ,3,44,5,68, 1k-5k ,646,16,0
+Karvy Innotech,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,12,39,301, 501-1k ,2200,21,0
+Chqbook.com,Financial Services ,Startup,Gurgaon / Gurugram ,3,7,11,91, 51-200 ,462,6,0
+Twin Health,Healthcare ,Startup,Chennai,3,6,8,88, 201-500 ,457,6,25
+Zebra Technologies,IT Services & Consulting ,Forbes Global 2000,Bangalore / Bengaluru ,4,55,8,113, 51-200 ,1400,13,0
+Pagarbook,Software Product ,Startup,Bangalore / Bengaluru ,4,5,23,128, 51-200 ,553,9,11
+Signzy Technologies,Software Product ,Startup,Bangalore / Bengaluru ,2,9,7,88, 51-200 ,610,16,0
+Genesys International Corporation,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,29,14,469, 1k-5k ,2700,19,0
+Nxtgen Datacenter Cloud Technologies,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,3,12,5,88, 201-500 ,675,7,0
+ITILITE,Software Product ,Startup,Bangalore / Bengaluru ,3,7,6,78, 51-200 ,681,9,0
+Oxyzo Financial Services,Financial Services ,Indian Unicorn,Gurgaon / Gurugram ,3,8,11,80, 201-500 ,580,3,10
+GSS Infotech,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,4,25,7,74, 51-200 ,714,1,0
+Harness,Software Product ,Startup,Bangalore / Bengaluru ,4,8,6,87, 201-500 ,207,3,0
+Cadence Design Systems,IT Services & Consulting ,Public,Bangalore / Bengaluru ,4,36,14,238, 1k-5k ,2200,50,80
+NASDAQ,Financial Services ,Forbes Global 2000,Bangalore / Bengaluru ,3,11,6,71, 201-500 ,821,14,0
+Sigachi Industries,Pharma ,Public,Hyderabad / Secunderabad ,3,35,11,143, 201-500 ,844,10,0
+VAYA Finserv,Financial Services ,Startup,Hyderabad / Secunderabad ,4,10,43,173, 1k-5k ,562,10,0
+Columbus Global,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,4,35,1,58, 201-500 ,543,3,0
+Cresce Technology Private Limited,Software Product ,Startup,Gurgaon / Gurugram ,3,3,2,66, 51-200 ,110,5,23
+Optimus Global Services,BPO ,Public,Hyderabad / Secunderabad ,3,22,5,67, 51-200 ,763,2,0
+SMS Pharmaceuticals,Pharma ,Public,Hyderabad / Secunderabad ,3,34,4,141, 501-1k ,757,10,0
+AdvantageClub.ai,Software Product ,Startup,Gurgaon / Gurugram ,4,8,2,54, 201-500 ,264,10,0
+AdvantageClub.ai,Software Product ,Startup,Gurgaon / Gurugram ,4,8,2,54, 201-500 ,264,10,0
+FloBiz,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,3,5,24,111, 51-200 ,568,18,0
+Shriram Housing Finance,Financial Services ,Public,Hyderabad / Secunderabad ,4,14,121,467, 501-1k ,1900,35,0
+Intas Pharmaceuticals,Pharma ,Fortune India 500,Bangalore / Bengaluru ,4,47,116,3000, 10k-50k ,15200,171,39
+Flixstock,Software Product ,Startup,Gurgaon / Gurugram ,3,9,1,96, 51-200 ,319,2,0
+Arth Design Build,Software Product ,Startup,Hyderabad / Secunderabad ,4,10,2,61, 51-200 ,423,2,0
+CDW,IT Services & Consulting ,Forbes Global 2000,Chennai,4,40,3,57, 501-1k ,767,17,0
+AlgoShack,Software Product ,Startup,Bangalore / Bengaluru ,4,6,1,57, 51-200 ,267,7,0
+Kuliza Technologies,Software Product ,Startup,Bangalore / Bengaluru ,2,6,3,66, 201-500 ,697,11,0
+Affle,IT Services & Consulting ,Public,Gurgaon / Gurugram ,3,30,3,61, 201-500 ,685,2,0
+Apollo Clinic,Healthcare ,Public,Bangalore / Bengaluru ,3,22,34,223, 201-500 ,932,10,0
+Balance Hero India,Financial Services ,Startup,Gurgaon / Gurugram ,3,10,5,61, 51-200 ,496,6,0
+Adrenalin Esystems,Software Product ,Public,Chennai,3,22,5,57, 201-500 ,808,1,0
+Palo Alto Networks,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,19,8,75, 1k-5k ,972,15,0
+Zaigo Infotech,IT Services & Consulting ,Startup,Chennai,4,9,1,52, 51-200 ,147,2,0
+Tata Insights and Quants,IT Services & Consulting ,Public,Bangalore / Bengaluru ,2,9,4,63, 51-200 ,340,7,0
+Goldstone Technologies,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,30,4,59, 51-200 ,501,2,0
+Torrent Pharmaceuticals,Pharma ,Public,Hyderabad / Secunderabad ,3,53,101,2200, 10k-50k ,10100,103,0
+Bristol-Myers Squibb,Pharma ,Forbes Global 2000,Bangalore / Bengaluru ,4,137,14,86, 201-500 ,586,8,0
+Ricoh,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,88,42,243, 1-10 ,942,6,0
+Tata Insights and Quants,IT Services & Consulting ,Public,Bangalore / Bengaluru ,2,9,4,63, 51-200 ,340,7,0
+Mojocare,Healthcare ,Startup,Bangalore / Bengaluru ,3,4,2,67, 11-50 ,254,1,0
+Smarter BIZ Technologies,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,3,10,13,118, 51-200 ,347,14,0
+TechChefs Software,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,4,9,3,59, 51-200 ,596,4,0
+USV,Pharma ,Fortune India 500,Bangalore / Bengaluru ,4,63,92,1300, 1k-5k ,5100,66,0
+Wockhardt,Pharma ,Public,Hyderabad / Secunderabad ,3,25,77,1300, 5k-10k ,4500,43,0
+Nuance Communications,Software Product ,Public,Bangalore / Bengaluru ,4,32,13,212, 1k-5k ,1800,21,0
+Nippon Life India Asset Management,Financial Services ,Public,Bangalore / Bengaluru ,4,29,157,567, 1k-5k ,1400,17,0
+Leena AI,Software Product ,Startup,Gurgaon / Gurugram ,3,9,5,98, 201-500 ,448,11,18
+MoneyTap,Financial Services ,Startup,Bangalore / Bengaluru ,3,9,10,61, 51-200 ,382,1,0
+Emcure Pharmaceuticals,Pharma ,Fortune India 500,Hyderabad / Secunderabad ,3,43,97,1700, 5k-10k ,8000,91,0
+Applicate,Financial Services ,Startup,Gurgaon / Gurugram ,2,10,3,50, 11-50 ,282,3,0
+Equifax,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,14,10,134, 201-500 ,1300,19,51
+RUBRIK INDIA,Software Product ,Startup,Bangalore / Bengaluru ,3,10,2,54, 501-1k ,725,8,0
+EMIS Health,Software Product ,Public,Chennai,4,37,1,46, 201-500 ,776,5,0
+KredX,Financial Services ,Startup,Bangalore / Bengaluru ,3,9,3,58, 51-200 ,490,6,26
+You Broadband,Telecom ,Public,Hyderabad / Secunderabad ,3,23,28,272, 1k-5k ,1100,9,0
+Experian,IT Services & Consulting ,Forbes Global 2000,Hyderabad / Secunderabad ,3,18,4,84, 201-500 ,1200,12,168
+Bhagwan Mahaveer Jain Hospital,Healthcare ,Public,Bangalore / Bengaluru ,3,49,4,67, 51-200 ,306,1,0
+TerraCIS Technologies,IT Services & Consulting ,Public,Gurgaon / Gurugram ,3,31,34,151, 1k-5k ,622,8,0
+Avataar.Me,Software Product ,Startup,Bangalore / Bengaluru ,3,10,6,53, 201-500 ,175,4,7
+Megasoft,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,30,7,55, 51-200 ,450,2,0
+CureLink,Healthcare ,Startup,Gurgaon / Gurugram ,3,3,5,48, 51-200 ,86,2,0
+FYERS Securities,Financial Services ,Startup,Bangalore / Bengaluru ,4,9,2,51, 201-500 ,464,4,0
+IDBI Intech Limited,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,24,24,396, 1k-5k ,2600,33,0
+Healthcare At Home,Healthcare ,Startup,Bangalore / Bengaluru ,3,12,27,277, 1k-5k ,1200,19,16
+CME Group,Financial Services ,Forbes Global 2000,Bangalore / Bengaluru ,4,176,3,52, 201-500 ,643,9,0
+MongoDB,Software Product ,Public,Gurgaon / Gurugram ,4,17,4,56, 501-1k ,632,14,0
+Fortis Malar Hospital,Healthcare ,Public,Chennai,3,28,4,54, 201-500 ,265,2,0
+JM Financial,Financial Services ,Public,Bangalore / Bengaluru ,3,40,59,477, 1k-5k ,3500,31,0
+Religare,Financial Services ,Public,Chennai,3,40,91,546, 1k-5k ,2400,20,0
+Sigma Infosolutions,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,20,6,70, 201-500 ,657,3,0
+Accel Limited,IT Services & Consulting ,Public,Chennai,3,33,28,97, 1k-5k ,684,7,0
+AGC Networks,IT Services & Consulting ,Public,Gurgaon / Gurugram ,3,38,13,109, 501-1k ,796,4,0
+Bharat IT Services,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,28,43,244, 501-1k ,924,11,0
+Barclays Global Service Centre,IT Services & Consulting ,Fortune India 500,Chennai,3,17,6,108, 201-500 ,6700,68,0
+Hevo Data,Software Product ,Startup,Bangalore / Bengaluru ,3,7,2,46, 201-500 ,412,15,29
+SugarFit,Healthcare ,Startup,Bangalore / Bengaluru ,3,3,1,67, 201-500 ,172,11,0
+Acer India,IT Services & Consulting ,Public,Bangalore / Bengaluru ,4,48,31,136, 51-200 ,723,5,0
+Sarvotham Care,Pharma ,Public,Hyderabad / Secunderabad ,4,28,7,69, 51-200 ,359,6,0
+ITSource Technologies,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,26,28,334, 201-500 ,2300,26,0
+Acer India,IT Services & Consulting ,Public,Bangalore / Bengaluru ,4,48,31,136, 51-200 ,723,5,0
+Ipca Laboratories,Pharma ,Public,Hyderabad / Secunderabad ,4,75,131,2500, 10k-50k ,11000,139,0
+Thyrocare Technologies,Healthcare ,Public,Hyderabad / Secunderabad ,3,28,62,866, 1k-5k ,4100,57,0
+Deutsche Telekom,Telecom ,Public,Gurgaon / Gurugram ,3,11,6,98, 10k-50k ,1200,12,0
+Emerson Electric Co.,IT Services & Consulting ,Public,Chennai,4,134,24,390, 5k-10k ,3100,43,170
+HALODOC,Software Product ,Startup,Bangalore / Bengaluru ,2,8,2,42, 51-200 ,341,9,0
+sysotel.ai,Software Product ,Startup,Bangalore / Bengaluru ,2,3,1,48, 11-50 ,17,0,0
+Dbs Mintek,Financial Services ,Forbes Global 2000,Hyderabad / Secunderabad ,3,16,16,179, 1k-5k ,1300,13,0
+Rolta India,IT Services & Consulting ,Public,Gurgaon / Gurugram ,2,35,11,213, 501-1k ,1200,2,0
+Srei Equipment Finance,Financial Services ,Public,Hyderabad / Secunderabad ,4,35,75,330, 1k-5k ,1200,9,0
+Bafna Pharmaceuticals,Pharma ,Public,Chennai,4,43,2,54, 51-200 ,403,5,0
+MapleLabs,Software Product ,Startup,Bangalore / Bengaluru ,4,10,2,42, 201-500 ,424,12,4
+Tricog Health Services,Financial Services ,Startup,Bangalore / Bengaluru ,3,9,7,50, 11-50 ,385,4,0
+CareEdge Ratings,Financial Services ,Public,Chennai,2,31,18,247, 501-1k ,1700,15,0
+Atlassian,Software Product ,Forbes Global 2000,Bangalore / Bengaluru ,3,22,6,99, 501-1k ,2400,55,0
+Verisk Analytics,IT Services & Consulting ,Forbes Global 2000,Hyderabad / Secunderabad ,3,53,3,40, 501-1k ,469,8,44
+Dhwani Rural Information Systems,IT Services & Consulting ,Startup,Gurgaon / Gurugram ,4,9,1,46, 51-200 ,338,8,0
+Cadila Pharmaceuticals,Pharma ,Public,Bangalore / Bengaluru ,3,73,116,1700, 5k-10k ,6900,95,0
+XTGlobal,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,4,26,2,61, 501-1k ,705,5,8
+AntWorks,Software Product ,Startup,Chennai,3,9,5,47, 51-200 ,687,1,0
+Draup,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,3,7,6,79, 501-1k ,737,11,10
+Orient Technologies,IT Services & Consulting ,Forbes Global 2000,Chennai,3,32,43,456, 1k-5k ,2800,18,0
+Eris Lifesciences,Pharma ,Public,Bangalore / Bengaluru ,3,17,76,584, 1k-5k ,2100,29,0
+Vasista Enterprise Solutions,Financial Services ,Startup,Hyderabad / Secunderabad ,3,11,1,42, 51-200 ,235,2,0
+Unique Biotech,Pharma ,Public,Hyderabad / Secunderabad ,3,23,2,46, 51-200 ,356,2,0
+Prathigna.com HR Solutions,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,1,9,4,50, 51-200 ,207,1,9
+Morepen Laboratories,Pharma ,Public,Gurgaon / Gurugram ,4,40,36,334, 1k-5k ,1500,15,0
+Hartron Communication,Telecom ,Public,Gurgaon / Gurugram ,3,26,4,42, 201-500 ,251,2,0
+Deskera,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,16,4,62, 51-200 ,298,5,0
+Healofy,Healthcare ,Startup,Bangalore / Bengaluru ,2,8,2,46, 201-500 ,311,2,0
+National Stock Exchange of India,Financial Services ,Fortune India 500,Chennai,3,32,31,348, 1k-5k ,3400,34,0
+Stock Holding Corporation of India,Financial Services ,Public,Hyderabad / Secunderabad ,3,38,91,420, 201-500 ,1700,23,0
+UTI Technology Services,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,31,18,106, 1k-5k ,491,3,0
+Avanse Financial Services,Financial Services ,Startup,Hyderabad / Secunderabad ,4,12,23,181, 501-1k ,1200,21,0
+Innovaccer,Software Product ,Indian Unicorn,Bangalore / Bengaluru ,3,10,5,289, 1k-5k ,2600,49,0
+Karnataka Antibiotics & Pharmaceuticals,Pharma ,Central,Bangalore / Bengaluru ,3,40,8,44, 501-1k ,252,3,0
+TestVagrant,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,3,10,2,39, 51-200 ,284,10,0
+Allied Digital Services,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,29,47,473, 1k-5k ,2600,35,0
+QuickRide,Software Product ,Startup,Bangalore / Bengaluru ,2,10,8,48, 11-50 ,342,5,0
+Macleods Pharmaceuticals,Pharma ,Public,Hyderabad / Secunderabad ,3,38,99,2900, 10k-50k ,14000,165,0
+Zylog Systems,IT Services & Consulting ,Public,Chennai,4,29,3,36, 501-1k ,149,0,0
+LOCUS,Software Product ,Startup,Bangalore / Bengaluru ,3,10,4,39, 51-200 ,464,3,0
+Goodera,Software Product ,Startup,Bangalore / Bengaluru ,3,10,5,49, 51-200 ,490,6,0
+Cyber Vision Infotech,Software Product ,Startup,Gurgaon / Gurugram ,4,9,1,40, 11-50 ,91,0,0
+Coffeebeans Consulting,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,4,7,1,35, 51-200 ,266,9,8
+Fourkites,Software Product ,Startup,Chennai,3,10,3,49, 201-500 ,492,12,17
+Ajanta Pharma,Pharma ,Public,Hyderabad / Secunderabad ,4,51,97,1800, 5k-10k ,8200,96,0
+Softsol,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,31,2,37, 51-200 ,409,2,0
+Viasat,Telecom ,Public,Chennai,3,38,1,31, 201-500 ,318,9,0
+Ceridian,IT Services & Consulting ,Public,Bangalore / Bengaluru ,4,12,3,47, 201-500 ,480,4,0
+Lavelle Networks,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,4,9,4,36, 51-200 ,195,1,0
+Lavelle Networks,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,4,9,4,36, 51-200 ,195,1,0
+Springworks,Software Product ,Startup,Bangalore / Bengaluru ,4,10,5,137, 201-500 ,216,18,0
+Procol,Software Product ,Startup,Gurgaon / Gurugram ,3,6,2,33, 11-50 ,158,3,16
+Willis Towers Watson,Financial Services ,Forbes Global 2000,Gurgaon / Gurugram ,3,8,15,710, 1k-5k ,6300,70,0
+ANSYS,IT Services & Consulting ,Forbes Global 2000,Bangalore / Bengaluru ,3,54,5,100, 501-1k ,889,18,0
+Spoors Technology Solutions India,IT Services & Consulting ,Startup,Hyderabad / Secunderabad ,4,9,2,35, 51-200 ,228,4,0
+QUICK HEAL TECHNOLOGIES,Software Product ,Public,Bangalore / Bengaluru ,3,29,43,379, 1k-5k ,2600,22,0
+Aditya Birla Housing Finance,Financial Services ,Public,Hyderabad / Secunderabad ,3,15,64,238, 1k-5k ,384,10,0
+Nxtra Data,IT Services & Consulting ,Public,Chennai,4,11,10,91, 51-200 ,551,8,0
+ART Housing Finance (India),Financial Services ,Public,Gurgaon / Gurugram ,3,11,29,111, 51-200 ,632,4,0
+Northern Arc Capital,Financial Services ,Public,Chennai,3,35,19,63, 201-500 ,550,9,0
+SightSpectrum Technology Solutions,IT Services & Consulting ,Startup,Chennai,3,7,3,44, 501-1k ,135,4,0
+Vivriti Capital,Financial Services ,Startup,Chennai,4,7,2,37, 201-500 ,391,8,0
+Unique Identification Authority of India,IT Services & Consulting ,Public,Bangalore / Bengaluru ,4,15,70,212, 501-1k ,814,8,0
+Palred Online Technologies,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,4,25,2,44, 51-200 ,310,0,0
+FDC,Pharma ,Public,Hyderabad / Secunderabad ,4,84,100,955, 5k-10k ,3300,44,0
+YourDOST,Financial Services ,Startup,Bangalore / Bengaluru ,3,10,5,40, 11-50 ,216,8,24
+Narayana Superspeciality Hospital,Healthcare ,Public,Gurgaon / Gurugram ,4,24,10,98, 10k-50k ,413,5,0
+Get my Parking,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,4,10,2,35, 51-200 ,344,6,0
+CRUD Operations Private Limited,Software Product ,Startup,Chennai,4,9,1,33, 11-50 ,194,0,0
+Trigyn Technologies,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,38,12,176, 501-1k ,1500,17,0
+Religare Finvest,Financial Services ,Public,Bangalore / Bengaluru ,4,18,34,210, 1k-5k ,598,3,0
+Sundaram Medical Foundation,Healthcare ,Public,Chennai,4,30,2,37, 1k-5k ,143,0,0
+Workhall,Software Product ,Startup,Chennai,4,3,1,30, 51-200 ,53,1,0
+WeNet Global,IT Services & Consulting ,Startup,Gurgaon / Gurugram ,5,2,3,64, 51-200 ,7,1,0
+Wilco Source,IT Services & Consulting ,Startup,Hyderabad / Secunderabad ,4,10,2,31, 11-50 ,295,3,20
+Vijayasri Organics,Pharma ,Public,Hyderabad / Secunderabad ,4,38,2,71, 201-500 ,397,4,0
+Saven Technologies,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,9,2,30, 51-200 ,382,3,0
+Appaswamy Real Estates,Financial Services ,Public,Chennai,4,65,3,41, 51-200 ,254,1,0
+Reliance Capital,Financial Services ,Public,Bangalore / Bengaluru ,3,19,80,369, 1k-5k ,2200,18,0
+Wintac,Pharma ,Public,Bangalore / Bengaluru ,3,37,3,38, 201-500 ,285,0,0
+IDOS INDIA,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,2,10,3,40, 11-50 ,84,1,0
+VuNet Systems,Software Product ,Startup,Bangalore / Bengaluru ,3,7,5,35, 51-200 ,267,5,35
+SMARTe,IT Services & Consulting ,Startup,Gurgaon / Gurugram ,3,10,7,104, 201-500 ,894,7,0
+R Systems International,IT Services & Consulting ,Public,Chennai,3,31,15,889, 1k-5k ,7100,94,22
+Pi DATACENTERS,IT Services & Consulting ,Startup,Hyderabad / Secunderabad ,3,10,6,67, 51-200 ,416,1,0
+Advanced Structures India,Financial Services ,Startup,Bangalore / Bengaluru ,3,10,1,32, 11-50 ,257,4,0
+GE Money,Financial Services ,Public,Gurgaon / Gurugram ,4,92,15,47, 1k-5k ,224,1,0
+West Unified Communications Services,IT Services & Consulting ,Public,Bangalore / Bengaluru ,4,33,2,40, 201-500 ,394,3,0
+TTEC Digital Analytics India,BPO ,Public,Hyderabad / Secunderabad ,4,42,2,39, 1k-5k ,209,8,0
+CoolBoots Media,Software Product ,Startup,Gurgaon / Gurugram ,3,8,3,33, 51-200 ,328,3,23
+5C Network,Software Product ,Startup,Bangalore / Bengaluru ,3,10,1,30, 51-200 ,173,1,18
+LimeTray,IT Services & Consulting ,Startup,Gurgaon / Gurugram ,2,11,3,31, 51-200 ,285,0,0
+PCS Technology,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,4,43,43,156, 1k-5k ,418,3,0
+Geometric,Software Product ,Public,Bangalore / Bengaluru ,3,40,4,54, 5k-10k ,286,8,0
+Credihealth,Healthcare ,Startup,Gurgaon / Gurugram ,2,11,2,32, 51-200 ,229,1,0
+J B Chemicals And Pharmaceuticals,Pharma ,Public,Hyderabad / Secunderabad ,3,48,70,639, 1k-5k ,2600,42,0
+Race2cloud Technologies,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,4,8,2,27, 51-200 ,86,3,0
+Ventura Securities,Financial Services ,Public,Bangalore / Bengaluru ,4,30,42,321, 501-1k ,1400,26,0
+KDDI,Telecom ,Forbes Global 2000,Gurgaon / Gurugram ,4,40,4,39, 51-200 ,197,1,0
+Data Economy,IT Services & Consulting ,Startup,Hyderabad / Secunderabad ,4,9,1,38, 51-200 ,253,8,33
+Copperpod Digital,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,4,2,1,31, 51-200 ,54,9,8
+Novulis Global Solutions,IT Services & Consulting ,Startup,Hyderabad / Secunderabad ,4,9,1,23, 51-200 ,32,1,0
+Bartronics,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,34,14,50, 201-500 ,206,1,0
+Danaher,Pharma ,Forbes Global 2000,Bangalore / Bengaluru ,4,40,11,74, 1k-5k ,668,8,0
+Jeevan Scientific Technology,Healthcare ,Public,Hyderabad / Secunderabad ,3,25,4,29, 51-200 ,218,0,23
+Mastek,IT Services & Consulting ,Public,Chennai,3,42,18,651, 1k-5k ,6000,89,0
+Shodhana Laboratories,Pharma ,Public,Hyderabad / Secunderabad ,4,24,2,40, 51-200 ,215,2,0
+JOVEO,Software Product ,Startup,Bangalore / Bengaluru ,3,7,1,27, 51-200 ,349,3,23
+Twilio,Software Product ,Public,Bangalore / Bengaluru ,4,12,1,73, 501-1k ,774,14,37
+Sunix AI,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,4,5,2,38, 11-50 ,23,2,0
+Indoco Remedies,Pharma ,Public,Hyderabad / Secunderabad ,3,77,69,1000, 5k-10k ,5200,57,0
+Hosting Raja,IT Services & Consulting ,Public,Bangalore / Bengaluru ,4,12,1,26, 501-1k ,39,1,0
+Healthsignz Technologies,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,3,10,3,24, 51-200 ,220,2,0
+Takeda Pharmaceutical,Pharma ,Forbes Global 2000,Gurgaon / Gurugram ,4,9,3,33, 51-200 ,217,2,0
+TeraSoftware,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,30,22,72, 501-1k ,560,1,0
+Smartron India,Financial Services ,Startup,Hyderabad / Secunderabad ,3,11,6,25, 51-200 ,296,1,0
+B2B Software Technologies,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,4,24,1,30, 51-200 ,165,1,0
+LogMeIn,IT Services & Consulting ,Public,Bangalore / Bengaluru ,4,21,1,26, 201-500 ,336,2,0
+Sparsh BPO Services,BPO ,Public,Gurgaon / Gurugram ,3,46,18,72, 10k-50k ,237,1,0
+Jubilant Pharmova,Pharma ,Public,Bangalore / Bengaluru ,4,46,54,781, 1k-5k ,3800,54,63
+MRO-TEK,IT Services & Consulting ,Public,Bangalore / Bengaluru ,4,40,7,38, 51-200 ,309,1,0
+Magzter,IT Services & Consulting ,Startup,Chennai,3,13,1,20, 51-200 ,229,0,0
+Melstar Information Technologies,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,38,7,43, 11-50 ,316,1,0
+Elixr Labs Technologies,IT Services & Consulting ,Startup,Chennai,4,3,3,88, 51-200 ,82,2,0
+Kaleidofin,Financial Services ,Startup,Chennai,3,6,4,26, 51-200 ,285,4,0
+ITTStar Global Services Private Limited,Software Product ,Startup,Bangalore / Bengaluru ,3,12,1,26, 51-200 ,128,2,0
+Vizlogic Digital Solutions,IT Services & Consulting ,Startup,Gurgaon / Gurugram ,4,6,2,34, 11-50 ,35,1,15
+Entropik Tech,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,3,8,2,22, 51-200 ,333,1,0
+Fortinet,IT Services & Consulting ,Forbes Global 2000,Bangalore / Bengaluru ,4,24,3,23, 201-500 ,292,7,0
+Weizmann Forex,Financial Services ,Public,Bangalore / Bengaluru ,3,31,31,120, 201-500 ,505,0,0
+5paisa Capital Ltd.,Financial Services ,Public,Bangalore / Bengaluru ,4,9,9,339, 501-1k ,1400,24,0
+BT E Serv,Telecom ,Public,Gurgaon / Gurugram ,4,17,3,49, 201-500 ,2500,40,0
+Software Technology Parks of India,Software Product ,Public,Bangalore / Bengaluru ,4,33,16,54, 501-1k ,510,5,0
+Jagsonpal Pharmaceuticals,Pharma ,Public,Gurgaon / Gurugram ,3,46,30,150, 1k-5k ,596,9,0
+HLL Lifecare,Healthcare ,Central,Chennai,3,58,94,436, 1k-5k ,1600,33,0
+Nutek,Telecom ,Public,Gurgaon / Gurugram ,4,32,20,50, 11-50 ,184,1,0
+Kernex Micro Systems,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,33,2,23, 201-500 ,126,2,0
+Numberz,Financial Services ,Startup,Gurgaon / Gurugram ,4,10,2,23, 11-50 ,79,0,0
+SHAREit Technology,Software Product ,Public,Gurgaon / Gurugram ,3,7,3,28, 501-1k ,274,2,0
+Numberz,Financial Services ,Startup,Gurgaon / Gurugram ,4,10,2,23, 11-50 ,79,0,0
+Appscrip,Software Product ,Startup,Bangalore / Bengaluru ,3,10,2,31, 51-200 ,228,5,0
+BootLabs,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,4,5,2,23, 51-200 ,100,3,0
+Cloudberry360 Technologies,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,4,3,1,21, 11-50 ,43,1,0
+HOV Services,BPO ,Public,Chennai,3,35,4,58, 51-200 ,323,4,0
+TARV TECHNOLOGIES,IT Services & Consulting ,Public,Chennai,4,17,15,67, 501-1k ,61,5,0
+Aleor Dermaceuticals,Pharma ,Public,Hyderabad / Secunderabad ,3,8,4,84, 51-200 ,478,3,0
+Raptakos Brett and Company,Pharma ,Public,Hyderabad / Secunderabad ,3,94,45,268, 201-500 ,1300,16,0
+EdGe Networks,Software Product ,Startup,Bangalore / Bengaluru ,3,12,1,23, 51-200 ,276,0,0
+Lirik Infotech,IT Services & Consulting ,Public,Gurgaon / Gurugram ,4,9,2,27, 51-200 ,308,6,0
+Accrete Globus Technology,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,11,2,23, 51-200 ,146,6,0
+Antares Systems,IT Services & Consulting ,Public,Bangalore / Bengaluru ,4,27,10,57, 201-500 ,321,0,0
+ADTRAN,Telecom ,Public,Hyderabad / Secunderabad ,4,39,2,21, 51-200 ,295,1,0
+Equinix,IT Services & Consulting ,Forbes Global 2000,Bangalore / Bengaluru ,4,26,3,32, 501-1k ,491,2,0
+Davita Nephrolife Care,Healthcare ,Forbes Global 2000,Bangalore / Bengaluru ,4,15,9,42, 51-200 ,136,2,0
+AppDynamics,Software Product ,Public,Bangalore / Bengaluru ,4,16,2,22, 201-500 ,211,1,0
+ALIGHT HR SERVICES,IT Services & Consulting ,Startup,Gurgaon / Gurugram ,3,7,6,40, 1k-5k ,278,2,23
+E-DAC Learning Solutions,Software Product ,Startup,Gurgaon / Gurugram ,3,8,10,34, 51-200 ,137,3,7
+Saturam,Software Product ,Startup,Bangalore / Bengaluru ,3,9,1,19, 51-200 ,108,2,0
+Rapidue Technologies,IT Services & Consulting ,Startup,Hyderabad / Secunderabad ,3,7,5,28, 51-200 ,267,0,10
+Loop Health,Software Product ,Startup,Bangalore / Bengaluru ,3,6,3,64, 201-500 ,307,4,4
+SigTuple,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,4,9,1,19, 51-200 ,272,2,0
+Systech Services,IT Services & Consulting ,Public,Bangalore / Bengaluru ,4,26,6,25, 51-200 ,194,1,0
+Celigo,Software Product ,Public,Hyderabad / Secunderabad ,3,13,1,26, 51-200 ,466,5,0
+NICE,Software Product ,Public,Bangalore / Bengaluru ,3,38,14,403, 1k-5k ,3400,57,0
+GyanMatrix Technologies,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,3,9,2,22, 51-200 ,171,1,0
+Bharat Broadband Network,Telecom ,Public,Bangalore / Bengaluru ,4,9,55,135, 51-200 ,740,6,0
+Gemini Communication,IT Services & Consulting ,Public,Chennai,4,29,18,49, 11-50 ,203,1,0
+Versa Networks,Software Product ,Startup,Bangalore / Bengaluru ,4,12,2,22, 11-50 ,339,2,0
+Nestor Pharmaceuticals,Pharma ,Public,Gurgaon / Gurugram ,2,107,11,83, 51-200 ,389,5,0
+Coupa Software Inc,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,18,2,80, 501-1k ,789,17,0
+Dell R&D Center,IT Services & Consulting ,Public,Bangalore / Bengaluru ,4,40,3,22, 1k-5k ,300,1,0
+Neuroglia Health,Healthcare ,Startup,Bangalore / Bengaluru ,3,9,1,21, 51-200 ,198,1,0
+ThoughtSpot,Software Product ,Startup,Bangalore / Bengaluru ,3,12,3,22, 201-500 ,383,13,35
+RtBrick,Software Product ,Startup,Bangalore / Bengaluru ,4,9,1,18, 11-50 ,21,1,0
+Cos Global,Software Product ,Startup,Hyderabad / Secunderabad ,4,3,1,17, 11-50 ,11,1,0
+Uncia Technologies,Software Product ,Startup,Chennai,3,4,2,21, 51-200 ,42,0,8
+Align Technology,IT Services & Consulting ,Forbes Global 2000,Hyderabad / Secunderabad ,3,27,3,30, 201-500 ,370,7,30
+Everi India,IT Services & Consulting ,Public,Chennai,3,9,2,22, 51-200 ,338,5,0
+CA-One Tech Cloud,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,3,7,3,26, 201-500 ,146,7,72
+Financepeer,Financial Services ,Startup,Hyderabad / Secunderabad ,3,7,12,79, 201-500 ,439,5,0
+Aavas Financiers,Financial Services ,Public,Bangalore / Bengaluru ,4,13,236,1600, 5k-10k ,5300,77,65
+eClerx,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,24,19,4400, 10k-50k ,27800,408,0
+Nucleus Software Exports,Software Product ,Public,Chennai,3,38,12,440, 1k-5k ,4400,31,0
+Cohesity,Software Product ,Public,Bangalore / Bengaluru ,3,11,2,28, 1k-5k ,400,11,0
+MapmyIndia,Software Product ,Public,Bangalore / Bengaluru ,3,32,7,225, 201-500 ,1600,17,0
+Medibox Digital Solutions,Software Product ,Startup,Bangalore / Bengaluru ,3,8,2,21, 51-200 ,180,0,0
+Entero Healthcare Solutions,Pharma ,Public,Chennai,4,6,19,151, 1k-5k ,769,5,0
+Celebal Technologies,IT Services & Consulting ,Startup,Hyderabad / Secunderabad ,2,9,16,433, 1k-5k ,2700,82,11
+Finance Buddha,Financial Services ,Public,Bangalore / Bengaluru ,4,12,4,26, 51-200 ,279,2,0
+Virinchi,Healthcare ,Public,Hyderabad / Secunderabad ,4,9,2,24, 501-1k ,348,2,0
+Guidewire Software,Software Product ,Public,Chennai,4,23,2,19, 201-500 ,161,4,0
+Indian Telephone Industries,Telecom ,Public,Bangalore / Bengaluru ,4,76,14,50, 1k-5k ,298,2,0
+Elite IT Services,Telecom ,Startup,Gurgaon / Gurugram ,4,12,6,20, 51-200 ,265,1,0
+Nihar Info Global,Financial Services ,Public,Hyderabad / Secunderabad ,3,9,1,16, 11-50 ,73,0,0
+Veritas,Software Product ,Public,Bangalore / Bengaluru ,4,35,38,489, 1k-5k ,4400,45,0
+Tech Data,IT Services & Consulting ,Public,Bangalore / Bengaluru ,4,50,7,55, 501-1k ,586,6,0
+Stockal,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,3,8,2,18, 51-200 ,149,2,0
+Esper,Software Product ,Startup,Bangalore / Bengaluru ,3,6,1,17, 51-200 ,170,1,0
+Cipla Health,Pharma ,Public,Bangalore / Bengaluru ,4,11,55,257, 10k-50k ,1100,20,0
+Mentor Graphics,Software Product ,Public,Bangalore / Bengaluru ,4,43,5,51, 201-500 ,687,18,0
+6Sense,Software Product ,Startup,Bangalore / Bengaluru ,3,11,1,85, 201-500 ,389,5,0
+Nu10 Technologies,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,3,3,2,22, 51-200 ,171,6,0
+OneDirect (India),IT Services & Consulting ,Startup,Bangalore / Bengaluru ,3,11,3,33, 51-200 ,361,2,0
+Prithvi Information Solutions,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,26,6,20, 1k-5k ,81,3,0
+Dizitive It Solutions,IT Services & Consulting ,Startup,Hyderabad / Secunderabad ,3,8,1,24, 11-50 ,113,2,0
+CAT Technologies,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,25,2,19, 51-200 ,226,1,0
+Dizitive It Solutions,IT Services & Consulting ,Startup,Hyderabad / Secunderabad ,3,8,1,24, 11-50 ,113,2,0
+Zeliot Connected Services,Software Product ,Startup,Bangalore / Bengaluru ,4,6,1,16, 51-200 ,94,0,0
+Euphoric Thought Technologies,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,5,6,1,14, 51-200 ,38,0,0
+Terumo Corporation,Healthcare ,Forbes Global 2000,Gurgaon / Gurugram ,2,9,3,16, 51-200 ,187,1,0
+CyberArk,Software Product ,Public,Hyderabad / Secunderabad ,3,25,1,15, 51-200 ,327,10,0
+truData Solutions,IT Services & Consulting ,Startup,Hyderabad / Secunderabad ,4,6,1,13, 11-50 ,13,0,0
+Optiva,Software Product ,Public,Bangalore / Bengaluru ,4,25,7,46, 51-200 ,454,2,0
+TeleCMI,Telecom ,Startup,Chennai,4,8,2,30, 11-50 ,18,0,2
+Sasken Network Engineering,IT Services & Consulting ,Public,Bangalore / Bengaluru ,5,20,1,13, 51-200 ,76,0,0
+Alankit,Financial Services ,Public,Hyderabad / Secunderabad ,3,33,37,335, 1k-5k ,1300,20,20
+MAS Financial Services,Financial Services ,Public,Bangalore / Bengaluru ,3,29,100,498, 1k-5k ,1800,29,21
+Hippo Innovations,Software Product ,Startup,Gurgaon / Gurugram ,4,10,1,15, 11-50 ,112,0,0
+Polestar Solutions & Services India,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,4,12,8,341, 201-500 ,993,15,0
+RDA Labs,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,3,9,2,28, 51-200 ,208,2,0
+Mindpool Technologies,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,13,4,52, 201-500 ,418,4,0
+Kalindee Rail Nirman (E),Telecom ,Public,Gurgaon / Gurugram ,4,40,14,65, 1k-5k ,273,1,0
+Staqu Technologies,Financial Services ,Startup,Gurgaon / Gurugram ,3,9,2,17, 11-50 ,181,4,0
+Riddhi Corporate Services,IT Services & Consulting ,Public,Chennai,3,14,33,155, 11-50 ,631,8,18
+mSupply,Financial Services ,Public,Bangalore / Bengaluru ,3,9,2,14, 51-200 ,69,1,0
+AbbVie Inc.,Pharma ,Forbes Global 2000,Bangalore / Bengaluru ,4,9,10,40, 1k-5k ,245,5,0
+Ruloans,Financial Services ,Public,Chennai,3,28,32,143, 51-200 ,856,8,0
+Discover Dollar,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,4,10,1,13, 11-50 ,93,2,0
+Tekplay Systems,IT Services & Consulting ,Public,Chennai,2,24,5,23, 51-200 ,390,0,9
+Auxilo Finserve,Financial Services ,Startup,Hyderabad / Secunderabad ,4,7,8,47, 51-200 ,448,1,22
+Nelco,Telecom ,Public,Hyderabad / Secunderabad ,3,84,17,110, 201-500 ,535,5,0
+Inspira,IT Services & Consulting ,Public,Bangalore / Bengaluru ,4,6,4,19, 51-200 ,176,1,0
+Litmus World,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,4,9,2,18, 51-200 ,306,2,0
+iMerit,Software Product ,Startup,Bangalore / Bengaluru ,3,12,11,872, 1k-5k ,4100,79,19
+Satya MicroCapital,Financial Services ,Public,Chennai,3,8,120,464, 1k-5k ,1600,47,0
+Nelco,Telecom ,Public,Hyderabad / Secunderabad ,3,84,17,110, 201-500 ,535,5,0
+Acropetal Technologies,IT Services & Consulting ,Public,Bangalore / Bengaluru ,4,23,3,14, 501-1k ,38,0,0
+TTSL,Telecom ,Public,Hyderabad / Secunderabad ,4,28,19,39, 1k-5k ,225,2,0
+Cheric Information Network Technologies,IT Services & Consulting ,Startup,Hyderabad / Secunderabad ,4,12,1,12, 51-200 ,135,0,0
+Envestnet Asset Management,Financial Services ,Public,Bangalore / Bengaluru ,3,25,4,197, 1k-5k ,1700,15,19
+Coloplast,Healthcare ,Forbes Global 2000,Bangalore / Bengaluru ,3,70,18,93, 51-200 ,327,7,0
+Muthoot Capital Services,Financial Services ,Public,Chennai,3,30,65,204, 1k-5k ,817,2,30
+Medeor,Healthcare ,Public,Gurgaon / Gurugram ,3,20,8,90, 501-1k ,519,3,0
+Sri Hema Infotech,IT Services & Consulting ,Public,Chennai,4,20,2,14, 11-50 ,178,1,0
+Kindly Health,Healthcare ,Startup,Bangalore / Bengaluru ,4,4,1,14, 11-50 ,47,0,0
+Heptagon Technologies,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,4,9,2,54, 51-200 ,516,5,0
+TAO The Automation Office,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,4,8,2,13, 501-1k ,140,2,0
+Tlg India,Software Product ,Public,Gurgaon / Gurugram ,3,52,10,35, 201-500 ,460,1,0
+Ceinsys Tech,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,26,36,293, 501-1k ,1300,11,17
+2050 Healthcare,Healthcare ,Startup,Hyderabad / Secunderabad ,3,5,17,64, 1k-5k ,177,1,25
+Cusmat,Software Product ,Startup,Bangalore / Bengaluru ,3,8,1,12, 11-50 ,75,1,0
+Veeva Systems,Software Product ,Public,Hyderabad / Secunderabad ,3,17,1,23, 1k-5k ,249,7,34
+Kindly Health,Healthcare ,Startup,Bangalore / Bengaluru ,4,4,1,14, 11-50 ,47,0,0
+Medeor,Healthcare ,Public,Gurgaon / Gurugram ,3,20,8,90, 501-1k ,519,3,0
+Themis Medicare,Pharma ,Public,Chennai,3,55,33,216, 201-500 ,965,10,0
+Reliable Data Services,BPO ,Public,Chennai,3,9,12,44, 51-200 ,231,1,0
+TCG Lifesciences,Pharma ,Public,Hyderabad / Secunderabad ,4,23,7,280, 1k-5k ,1200,12,0
+HCAH SuVitas,Healthcare ,Public,Hyderabad / Secunderabad ,3,10,1,16, 11-50 ,127,0,0
+Wishup,Financial Services ,Startup,Bangalore / Bengaluru ,4,9,3,112, 11-50 ,241,16,0
+Unichem Laboratories,Pharma ,Public,Hyderabad / Secunderabad ,3,80,68,1000, 1k-5k ,4900,76,32
+Uniinfo Telecom Services,Telecom ,Public,Bangalore / Bengaluru ,3,14,30,188, 201-500 ,538,10,0
+Kerala Ayurveda,Pharma ,Public,Bangalore / Bengaluru ,4,79,7,32, 51-200 ,195,3,0
+IDBI Capital,Financial Services ,Public,Hyderabad / Secunderabad ,3,31,35,145, 51-200 ,835,9,0
+Luker Electric Technologies,Financial Services ,Startup,Hyderabad / Secunderabad ,3,10,18,66, 51-200 ,397,5,0
+Everest Organics,Pharma ,Public,Hyderabad / Secunderabad ,3,9,2,27, 501-1k ,174,0,0
+Cumulations Technologies,Financial Services ,Startup,Bangalore / Bengaluru ,4,9,1,12, 11-50 ,82,0,0
+Reliable Data Services,BPO ,Public,Chennai,3,9,12,44, 51-200 ,231,1,0
+Odyssey Technologies,IT Services & Consulting ,Public,Chennai,3,9,3,20, 51-200 ,162,1,0
+Qure.ai,Healthcare ,Public,Bangalore / Bengaluru ,3,8,1,23, 11-50 ,205,3,0
+Sunday Labs,IT Services & Consulting ,Startup,Gurgaon / Gurugram ,4,4,1,13, 51-200 ,42,0,7
+MedPay,Healthcare ,Startup,Bangalore / Bengaluru ,3,4,1,33, 51-200 ,40,1,0
+Intelsat,Telecom ,Public,Chennai,4,60,1,11, 11-50 ,137,2,0
+Triveni Enterprises,Financial Services ,Public,Bangalore / Bengaluru ,3,9,3,15, 51-200 ,123,0,0
+Religare Housing Development Finance Corporation,Financial Services ,Public,Bangalore / Bengaluru ,4,31,26,89, 51-200 ,264,1,0
+Zippr,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,11,1,11, 11-50 ,61,0,0
+Silver Touch Technologies,IT Services & Consulting ,Public,Gurgaon / Gurugram ,3,32,26,254, 1k-5k ,2300,20,0
+FCS Software Solutions,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,30,13,126, 1k-5k ,798,7,0
+Hfcl Infotel,Telecom ,Public,Gurgaon / Gurugram ,4,37,28,53, 1k-5k ,189,2,0
+Altiux Innovations,Financial Services ,Startup,Bangalore / Bengaluru ,2,11,2,11, 51-200 ,220,0,0
+Zilingo,Financial Services ,Startup,Bangalore / Bengaluru ,4,9,6,27, 201-500 ,285,2,0
+Crystal Hues,IT Services & Consulting ,Public,Bangalore / Bengaluru ,3,35,8,51, 51-200 ,290,1,25
+Mitosis Technologies,IT Services & Consulting ,Startup,Chennai,3,11,1,10, 51-200 ,104,0,0
+Network People Services Technologies,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,3,11,9,63, 51-200 ,494,4,21
+Motilal Oswal,Financial Services ,Public,Bangalore / Bengaluru ,3,37,41,138, 5k-10k ,1200,14,15
+Talend Data Integration Services,Software Product ,Public,Bangalore / Bengaluru ,3,19,1,15, 51-200 ,170,3,0
+REALWORLD ONE,Software Product ,Public,Bangalore / Bengaluru ,2,7,2,11, 51-200 ,60,0,0
+NeoDove,Software Product ,Startup,Bangalore / Bengaluru ,2,5,2,13, 51-200 ,96,2,16
+Skylo,Telecom ,Startup,Bangalore / Bengaluru ,3,7,1,12, 51-200 ,78,0,0
+LeanIX,IT Services & Consulting ,Startup,Hyderabad / Secunderabad ,3,12,1,10, 11-50 ,71,6,0
+Koantek,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,3,4,3,36, 51-200 ,153,15,5
+VisAI Labs,Software Product ,Startup,Chennai,4,6,1,103, 51-200 ,87,7,0
+Decisions,Software Product ,Startup,Hyderabad / Secunderabad ,2,16,2,14, 51-200 ,84,6,0
+Genesis,Healthcare ,Public,Bangalore / Bengaluru ,4,12,18,46, 1k-5k ,478,6,0
+SWIFT,Financial Services ,Startup,Bangalore / Bengaluru ,3,6,12,27, 11-50 ,257,0,0
+LiftOff Software,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,2,14,1,9, 51-200 ,107,2,0
+Saiesh Info Solutions,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,3,9,1,10, 11-50 ,67,1,0
+Wanbury,Pharma ,Public,Hyderabad / Secunderabad ,3,36,27,177, 1k-5k ,751,5,0
+Mygubbi,Financial Services ,Startup,Bangalore / Bengaluru ,2,9,1,9, 51-200 ,79,0,0
+Genesis,Healthcare ,Public,Bangalore / Bengaluru ,4,12,18,46, 1k-5k ,478,6,0
+Blue Cross Laboratories,Pharma ,Public,Hyderabad / Secunderabad ,3,44,32,158, 1k-5k ,538,5,0
+IQnext,Software Product ,Startup,Bangalore / Bengaluru ,5,8,1,11, 11-50 ,91,1,0
+InfoBeans,IT Services & Consulting ,Public,Chennai,3,24,5,262, 1k-5k ,2800,26,0
+SWIFT,Financial Services ,Startup,Bangalore / Bengaluru ,3,6,12,27, 11-50 ,257,0,0
+Edvenswa Tech,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,17,1,11, 51-200 ,179,1,0
+"Ministry Of Health, New Delhi",Healthcare ,Public,Chennai,4,48,52,302, 10k-50k ,1000,13,0
+Saiesh Info Solutions,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,3,9,1,10, 11-50 ,67,1,0
+Cravatex,Financial Services ,Public,Bangalore / Bengaluru ,4,73,7,39, 501-1k ,264,1,0
+RouteMobile,IT Services & Consulting ,Public,Bangalore / Bengaluru ,4,20,6,62, 201-500 ,621,4,26
+Snapmint Credit Advisory,Financial Services ,Startup,Gurgaon / Gurugram ,3,9,6,27, 51-200 ,240,3,15
+COSYN,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,38,7,18, 51-200 ,105,1,0
+RMgX,IT Services & Consulting ,Startup,Gurgaon / Gurugram ,4,9,1,18, 51-200 ,62,1,0
+Lupin Digital Health,Pharma ,Startup,Bangalore / Bengaluru ,3,2,5,18, 51-200 ,89,0,0
+Peso : Accounts Receivables Automation Software,Software Product ,Startup,Bangalore / Bengaluru ,5,1,1,10, 1-10 ,3,1,0
+Scymes Services,IT Services & Consulting ,Startup,Chennai,3,9,12,97, 501-1k ,352,4,0
+Bitcs.in,IT Services & Consulting ,Startup,Gurgaon / Gurugram ,4,9,2,20, 51-200 ,93,0,0
+QX Global Group,IT Services & Consulting ,Public,Hyderabad / Secunderabad ,3,21,15,406, 1k-5k ,2200,62,0
+BrightGeeks Technologies,IT Services & Consulting ,Startup,Bangalore / Bengaluru ,4,3,1,10, 1-10 ,27,0,0
+Peso : Accounts Receivables Automation Software,Software Product ,Startup,Bangalore / Bengaluru ,5,1,1,10, 1-10 ,3,1,0
+Starcom Information Technology,IT Services & Consulting ,Public,Bangalore / Bengaluru ,1,12,3,11, 11-50 ,129,0,0
+Petoo,Financial Services ,Public,Bangalore / Bengaluru ,2,9,3,10, 11-50 ,73,0,0
+Swash Convergence Technologies,IT Services & Consulting ,Public,Gurgaon / Gurugram ,2,23,4,40, 51-200 ,184,1,0
+Dishnet Wireless,Telecom ,Public,Gurgaon / Gurugram ,4,26,45,195, 1k-5k ,429,0,0
+Ziqitza Health Care,Healthcare ,Public,Bangalore / Bengaluru ,4,19,52,438, 5k-10k ,1200,18,0
+Ortin Laboratories,Pharma ,Public,Hyderabad / Secunderabad ,3,9,1,13, 51-200 ,94,0,0
+Magma Housing Finance,Financial Services ,Public,Hyderabad / Secunderabad ,4,35,59,149, 5k-10k ,606,4,0
